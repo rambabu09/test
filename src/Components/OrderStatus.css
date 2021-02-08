@@ -1,0 +1,56 @@
+main {
+    margin: 16px;
+}
+
+.p {
+    margin: 16px;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.smallFont {
+    font-size: small;
+}
+
+.trackingNumber {
+    color: cornflowerblue;
+    font-size: small;
+}
+
+.customColor {
+    color: dimgrey;
+}
+
+.blackColor {
+    color: black;
+}
+
+.float-left-child {
+    float: left;
+}
+
+.primaryButton{
+    color: white;
+    background: cornflowerblue;
+    border-width: 1px;
+    border-color: black;
+    width: 200px;
+    height: 30px;
+    margin: 12px;
+}
+
+.secondaryButton{
+    color: black;
+    background: white;
+    border-width: 1px;
+    border-color: black;
+    width: 200px;
+    height: 30px;
+    margin: 12px;
+}
